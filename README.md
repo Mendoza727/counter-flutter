@@ -1,16 +1,42 @@
-# counter
+# Contador Flutter App
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-v3.x-blue?logo=flutter&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-Supported-green?logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Supported-brightgreen?logo=android&logoColor=white)
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+Esta es una aplicación de **contador** creada en **Flutter**. Con esta aplicación, podrás:
 
-A few resources to get you started if this is your first Flutter project:
+- **Incrementar** el contador.
+- **Restar** valores del contador.
+- **Reiniciar** el contador a su valor inicial.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Es un proyecto sencillo, ideal para aprender los conceptos básicos de Flutter y la construcción de interfaces de usuario.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ¿Cómo clonar este proyecto?
+
+1. **Clona el repositorio** en tu máquina local:
+  ```bash
+     git clone https://github.com/Mendoza727/counter-flutter.git
+  ```
+2. **Accede a la carpeta del proyecto:
+   ```bash
+    cd counter-flutter
+   ```
+## ¿Cómo ejecutarlo en tu dispositivo?
+
+**Android o ios:
+1. Conecta tu dispositivo ya sea android, ios o un emulador.
+2. Ejecuta el siguiente comando para iniciar la aplicación:
+   ```bash
+    flutter run
+   ```
+** Nota: Si estás en Windows, no podrás ejecutar aplicaciones iOS porque requiere macOS y Xcode.
+
+## Requisitos del Sistema
+- **Flutter SDK**: Debes tener instalado Flutter. [Instrucciones de instalación](https://docs.flutter.dev/get-started/install).
+- Android Studio o Visual Studio Code (opcional pero recomendado).
+- Dispositivo físico o emulador con soporte para Flutter.
